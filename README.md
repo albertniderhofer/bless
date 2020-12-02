@@ -1,3 +1,6 @@
+See the Sha-2 branch for code that supports SHA-2 signature
+
+
 # Archived
 With the existence of more SSH certificate tools since the release of BLESS, and better SSH access management from AWS, we're moving BLESS to the archived OSS project state. This means we no longer plan to maintain the project, but will be keeping it public for others who may still use it.
 
